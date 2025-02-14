@@ -40,3 +40,4 @@ void app_main()//Primeira função a ser executada no programa
 /*Cria a tarefa dht_test, que executa a função dht_test definida anteriormente. A tarefa 
 é criada com o nome "dht_test", um tamanho de pilha mínimo multiplicado por 3, 
 nenhum parâmetro adicional (NULL) e prioridade 5 (0 alta até 31 baixa prioridade)*/
+//fsffs
